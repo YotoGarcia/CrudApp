@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crud App</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_correo_electronico">Email:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_password">Password:</string>
+    <string name="hint_btn_guardar">Guardar Registro</string>
+    <string name="menuNuevo">Nuevo Registro</string>
+</resources>
